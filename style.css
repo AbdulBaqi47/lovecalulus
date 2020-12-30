@@ -1,0 +1,18 @@
+.fontstyle{
+font-family: 'Langar', cursive;
+font-size: 5rem;
+}
+.fonty{
+	font-size: 2rem;
+	color: hotpink;
+}
+
+.bgimg{
+	width: 25%;
+	margin-left: 25%;
+	position: absolute;
+}
+
+.marg{
+	margin-left: 20%;
+}
